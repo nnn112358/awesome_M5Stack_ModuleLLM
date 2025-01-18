@@ -70,7 +70,7 @@ https://www.zhihu.com/people/tang-qi-14-37<br>
 ### M5Stack関係者
 
 @Abandon-ht/ModuleLLM_Development_Guide<br>
-https://github.com/Abandon-ht/ModuleLLM_Development_Guide/
+https://github.com/Abandon-ht/ModuleLLM_Development_Guide/<br>
 @Abandon-ht/ax-AI_develop_guide<br>
 https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
