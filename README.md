@@ -72,28 +72,30 @@ https://github.com/Abandon-ht/ModuleLLM_Development_Guide/<br>
 @Abandon-ht/ax-AI_develop_guide<br>
 https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
+
+## ModuleLLMケース
+
+@kenichih(Ken-ichi Hayashi)/Module LLMのデバッグ基板を一体化するフレーム<br>
+https://qiita.com/kenichih/items/3b6cef2c71a1f9faf42d<br>
+https://www.thingiverse.com/thing:6886266<br>
+@tokkyo/M5Stack Module LLM Stand with Debug Board<br>
+https://makerworld.com/en/models/981023#profileId-954651<br>
+@takao/M5Stack Stand-chan big<br>
+https://makerworld.com/en/models/996444#profileId-972892<br>
+
 ### その他
 
 M5Stack Module LLM Advent Calendar 2024<br>
 https://qiita.com/advent-calendar/2024/m5stack_module_llm<br>
 @tokkyo/おなかすいたWiKi<br>
 https://wiki.onakasuita.org/pukiwiki/?Module%20LLM<br>
-
 @ksasao/TextAssistant.ino<br>
 https://gist.github.com/ksasao/37425d3463013221e7fd0f9ae5ab1c62<br>
 @ciniml/ cross compile modules for M5Stack Module LLM <br>
 https://gist.github.com/ciniml/de14b22991c16fbe76558fe86eda8565<br>
-@タカオ/M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
+@takao/M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
 https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
-StackFlowPythonサンプル。<br>
-https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
 
-## ModuleLLMケース
-@kenichih(Ken-ichi Hayashi)/Module LLMのデバッグ基板を一体化するフレーム<br>
-https://qiita.com/kenichih/items/3b6cef2c71a1f9faf42d<br>
-https://www.thingiverse.com/thing:6886266<br>
-@tokkyo/M5Stack Module LLM Stand with Debug Board<br>
-https://makerworld.com/en/models/981023#profileId-954651<br>
 
 ### @airpocket氏
 
