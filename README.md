@@ -8,40 +8,30 @@
 
 m5-docs:Module-LLM<br>
 https://docs.m5stack.com/ja/module/Module-LLM<br>
-
 LLM Module Arduino Quick Start<br>
 https://docs.m5stack.com/zh_CN/guide/llm/llm/arduino<br>
-
 LLM Module UIFlow2.0 Quick Start<br>
 https://docs.m5stack.com/en/guide/llm/llm/uiflow2<br>
-
 Module-LLM arduino /ArduinoのStackFlowクライアント<br>
 https://github.com/m5stack/M5Module-LLM<br>
-
 StackFlow/M5Stackが開発しているLLMサービスサーバー<br>
 https://github.com/m5stack/StackFlow<br>
-
 StackFlowのjson仕様<br>
 https://github.com/m5stack/StackFlow/tree/main/doc/projects_llm_framework_doc<br>
-
 スイッチサイエンス/M5Stack LLM モジュール<br>
 https://www.switch-science.com/products/10034<br>
 
 ### Axera Techオフィシャル情報
 AX630C - Axera Tech - 爱芯元智<br>
 https://en.axera-tech.com/Product/126.html<br>
-
 @AXERA-TECH/ax-samples、Cppのサンプル<br>
 https://github.com/AXERA-TECH/ax-samples<br>
-
 @AXERA-TECH/pyaxengine、Pythonのサンプル<br>
 https://github.com/AXERA-TECH/pyaxengine<br>
-
 @AXERA-TECH/ax-llm<br>
 https://github.com/AXERA-TECH/ax-llm<br>
 
 ####  Axera Techオフィシャル/Pulsar2関係
-
 pulsar2-docs:NPUモデル変換ツール<br>
 https://pulsar2-docs.readthedocs.io/en/latest/index.html<br>
 https://axera-pi-zero-docs-cn.readthedocs.io/zh-cn/latest/doc_guide_algorithm.html<br>
@@ -66,10 +56,8 @@ https://drive.google.com/drive/folders/1JY59vOFS2qxI8TkVIZ0pHfxHMfKPW5PS<br>
 
 ml-inory/whieper.axera,melotts.axeraの開発者<br>
 https://github.com/ml-inory?tab=repositories<br>
-
 qqc/Pulsar2の開発者<br>
 https://github.com/BUG1989?tab=repositories<br>
-
 qqc氏のzhihuブログ<br>
 https://www.zhihu.com/people/tang-qi-14-37<br>
 
@@ -85,20 +73,16 @@ https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
 M5Stack Module LLM Advent Calendar 2024<br>
 https://qiita.com/advent-calendar/2024/m5stack_module_llm<br>
-
 @tokkyo/おなかすいたWiKi<br>
 https://wiki.onakasuita.org/pukiwiki/?Module%20LLM<br>
-
 How to export YOLOv8’s ONNX model;<br>
 https://axera-pi-zero-docs-cn.readthedocs.io/en/latest/doc_guide_algorithm.html<br>
-
 ksasao/TextAssistant.ino<br>
 https://gist.github.com/ksasao/37425d3463013221e7fd0f9ae5ab1c62<br>
 @ciniml/ cross compile modules for M5Stack Module LLM <br>
 https://gist.github.com/ciniml/de14b22991c16fbe76558fe86eda8565<br>
 M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
 https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
-
 StackFlowPythonサンプル。<br>
 https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
 
@@ -106,7 +90,6 @@ https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
 @kenichih(Ken-ichi Hayashi)/Module LLMのデバッグ基板を一体化するフレーム<br>
 https://qiita.com/kenichih/items/3b6cef2c71a1f9faf42d<br>
 https://www.thingiverse.com/thing:6886266<br>
-
 @tokkyo/M5Stack Module LLM Stand with Debug Board<br>
 https://makerworld.com/en/models/981023#profileId-954651<br>
 
@@ -185,15 +168,13 @@ https://qiita.com/nnn112358/items/da1bffb82ad675f1b625<br>
 @nnn/Module-LLMでソースからビルドしたOpenCV-Mobileを使ってみる<br>
 https://qiita.com/nnn112358/items/00417733dddb6414fec0<br>
 
-## Sipeed MAiXIV情報
+## Sipeed MAiXIV(AX650N)情報
 
 sipeed/maixIV<br>
 https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/axmodel-deploy.html<br>
 https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock<br>
-
 maixHub axera-pi<br>
 https://maixhub.com/model/zoo?name=yolo&sort=recently&platform=axera-pi<br>
-
 爱芯元智AX650N部署yolov5s 自定义模型<br>
 https://www.cnblogs.com/smallwxw/p/17836977.html<br>
 https://github.com/derronqi/yolov8-face?tab=readme-ov-file<br>
