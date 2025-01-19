@@ -124,24 +124,13 @@ https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
 StackFlowPythonサンプル。<br>
 https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
 
+## ModuleLLMケース
+@kenichih(Ken-ichi Hayashi)/Module LLMのデバッグ基板を一体化するフレーム<br>
+https://qiita.com/kenichih/items/3b6cef2c71a1f9faf42d<br>
+https://www.thingiverse.com/thing:6886266<br>
 
-## Sipeed MAiXIV情報
-
-sipeed/maixIV<br>
-https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/axmodel-deploy.html<br>
-https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock<br>
-
-maixHub axera-pi<br>
-https://maixhub.com/model/zoo?name=yolo&sort=recently&platform=axera-pi<br>
-
-爱芯元智AX650N部署yolov5s 自定义模型<br>
-https://www.cnblogs.com/smallwxw/p/17836977.html<br>
-https://github.com/derronqi/yolov8-face?tab=readme-ov-file<br>
-
-[经验] 【爱芯派 Pro 开发板试用体验】人体姿态估计模型部署后期尝试<br>
-https://bbs.elecfans.com/jishu_2408487_1_1.html<br>
-
-
+@tokkyo/M5Stack Module LLM Stand with Debug Board<br>
+https://makerworld.com/en/models/981023#profileId-954651<br>
 
 ## ＠nnn
 @nnn/リンク集<br>
@@ -199,3 +188,18 @@ https://qiita.com/nnn112358/items/da1bffb82ad675f1b625<br>
 @nnn/Module-LLMでソースからビルドしたOpenCV-Mobileを使ってみる<br>
 https://qiita.com/nnn112358/items/00417733dddb6414fec0<br>
 
+## Sipeed MAiXIV情報
+
+sipeed/maixIV<br>
+https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/axmodel-deploy.html<br>
+https://dl.sipeed.com/shareURL/MaixIV/M4N-Dock<br>
+
+maixHub axera-pi<br>
+https://maixhub.com/model/zoo?name=yolo&sort=recently&platform=axera-pi<br>
+
+爱芯元智AX650N部署yolov5s 自定义模型<br>
+https://www.cnblogs.com/smallwxw/p/17836977.html<br>
+https://github.com/derronqi/yolov8-face?tab=readme-ov-file<br>
+
+[经验] 【爱芯派 Pro 开发板试用体验】人体姿态估计模型部署后期尝试<br>
+https://bbs.elecfans.com/jishu_2408487_1_1.html<br>
