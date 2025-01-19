@@ -81,27 +81,6 @@ https://github.com/Abandon-ht/ModuleLLM_Development_Guide/<br>
 @Abandon-ht/ax-AI_develop_guide<br>
 https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
-
-### @airpocket氏
-
-@airpocket/M5Stack LLM ModuleをLinuxボードとして利用する際のFAQ/Tips<br>
-https://elchika.com/article/0e41a4a7-eecc-471e-a259-4fc8d710c26a/<br>
-@airpocket/M5Stack LLM ModuleでONNX モデルを変換して使うデモ<br>
-https://elchika.com/article/f393da46-65bd-4f76-951c-d0e31dba2987/<br>
-@airpocket/M5Stack Module LLMがやばい<br>
-https://zenn.dev/airpocket/articles/543f865673a2b9<br>
-@airpocket/M5Stack Module LLMのpython用runtimeのデモを動かす<br>
-https://zenn.dev/airpocket/articles/3ae46a450a87be<br>
-@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 0.概要<br>
-https://zenn.dev/airpocket/articles/526e6b0f554e81<br>
-@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 1.モデル変換<br>
-https://zenn.dev/airpocket/articles/f41765f304e313<br>
-@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 2.python用runtimeビルド<br>
-https://zenn.dev/airpocket/articles/b274c40f988434<br>
-@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 3.pythonデモコードでリアルタイム推論<br>
-https://zenn.dev/airpocket/articles/3cc51cd57cd18d<br>
-
-
 ### その他
 
 M5Stack Module LLM Advent Calendar 2024<br>
@@ -109,7 +88,6 @@ https://qiita.com/advent-calendar/2024/m5stack_module_llm<br>
 
 @tokkyo/おなかすいたWiKi<br>
 https://wiki.onakasuita.org/pukiwiki/?Module%20LLM<br>
-
 
 How to export YOLOv8’s ONNX model;<br>
 https://axera-pi-zero-docs-cn.readthedocs.io/en/latest/doc_guide_algorithm.html<br>
@@ -131,6 +109,25 @@ https://www.thingiverse.com/thing:6886266<br>
 
 @tokkyo/M5Stack Module LLM Stand with Debug Board<br>
 https://makerworld.com/en/models/981023#profileId-954651<br>
+
+### @airpocket氏
+
+@airpocket/M5Stack LLM ModuleをLinuxボードとして利用する際のFAQ/Tips<br>
+https://elchika.com/article/0e41a4a7-eecc-471e-a259-4fc8d710c26a/<br>
+@airpocket/M5Stack LLM ModuleでONNX モデルを変換して使うデモ<br>
+https://elchika.com/article/f393da46-65bd-4f76-951c-d0e31dba2987/<br>
+@airpocket/M5Stack Module LLMがやばい<br>
+https://zenn.dev/airpocket/articles/543f865673a2b9<br>
+@airpocket/M5Stack Module LLMのpython用runtimeのデモを動かす<br>
+https://zenn.dev/airpocket/articles/3ae46a450a87be<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 0.概要<br>
+https://zenn.dev/airpocket/articles/526e6b0f554e81<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 1.モデル変換<br>
+https://zenn.dev/airpocket/articles/f41765f304e313<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 2.python用runtimeビルド<br>
+https://zenn.dev/airpocket/articles/b274c40f988434<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 3.pythonデモコードでリアルタイム推論<br>
+https://zenn.dev/airpocket/articles/3cc51cd57cd18d<br>
 
 ## ＠nnn
 @nnn/リンク集<br>
