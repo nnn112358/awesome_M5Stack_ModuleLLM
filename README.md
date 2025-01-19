@@ -80,7 +80,7 @@ https://qiita.com/kenichih/items/3b6cef2c71a1f9faf42d<br>
 https://www.thingiverse.com/thing:6886266<br>
 @tokkyo/M5Stack Module LLM Stand with Debug Board<br>
 https://makerworld.com/en/models/981023#profileId-954651<br>
-@takao/M5Stack Stand-chan big<br>
+@takao/M5Stack Stand-chan big(ｽﾀｯｸﾁｬﾝ風LLMケース)<br>
 https://makerworld.com/en/models/996444#profileId-972892<br>
 
 ### その他
