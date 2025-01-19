@@ -8,17 +8,24 @@
 
 m5-docs:Module-LLM<br>
 https://docs.m5stack.com/ja/module/Module-LLM<br>
-LLM Module Arduino Quick Start:Module-LLM<br>
+
+LLM Module Arduino Quick Start<br>
 https://docs.m5stack.com/zh_CN/guide/llm/llm/arduino<br>
+
+LLM Module UIFlow2.0 Quick Start<br>
+https://docs.m5stack.com/en/guide/llm/llm/uiflow2<br>
+
 Module-LLM arduino /ArduinoのStackFlowクライアント<br>
 https://github.com/m5stack/M5Module-LLM<br>
+
 StackFlow/M5Stackが開発しているLLMサービスサーバー<br>
 https://github.com/m5stack/StackFlow<br>
 
 StackFlowのjson仕様<br>
 https://github.com/m5stack/StackFlow/tree/main/doc/projects_llm_framework_doc<br>
 
-
+スイッチサイエンス/M5Stack LLM モジュール<br>
+https://www.switch-science.com/products/10034<br>
 
 ### Axera Techオフィシャル情報
 AX630C - Axera Tech - 爱芯元智<br>
