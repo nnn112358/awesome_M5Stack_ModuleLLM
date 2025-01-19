@@ -81,9 +81,18 @@ https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 https://elchika.com/article/0e41a4a7-eecc-471e-a259-4fc8d710c26a/<br>
 @airpocket/M5Stack LLM ModuleでONNX モデルを変換して使うデモ<br>
 https://elchika.com/article/f393da46-65bd-4f76-951c-d0e31dba2987/<br>
-
-@airpocket/M5Stack Module LLMがやばい
-https://zenn.dev/airpocket/articles/543f865673a2b9
+@airpocket/M5Stack Module LLMがやばい<br>
+https://zenn.dev/airpocket/articles/543f865673a2b9<br>
+@airpocket/M5Stack Module LLMのpython用runtimeのデモを動かす<br>
+https://zenn.dev/airpocket/articles/3ae46a450a87be<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 0.概要<br>
+https://zenn.dev/airpocket/articles/526e6b0f554e81<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 1.モデル変換<br>
+https://zenn.dev/airpocket/articles/f41765f304e313<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 2.python用runtimeビルド<br>
+https://zenn.dev/airpocket/articles/b274c40f988434<br>
+@airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 3.pythonデモコードでリアルタイム推論<br>
+https://zenn.dev/airpocket/articles/3cc51cd57cd18d<br>
 
 
 ### その他
