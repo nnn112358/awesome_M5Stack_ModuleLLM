@@ -137,7 +137,14 @@ https://bbs.elecfans.com/jishu_2408487_1_1.html<br>
 
 
 ## ＠nnn
-
+@nnn/リンク集<br>
+https://github.com/nnn112358/anysome_M5Stack_ModuleLLM<br>
+@nnn/M5StackのModuleLLMのdebパッケージ一覧<br>
+https://github.com/nnn112358/Module_LLM_deb_investivate<br>
+@nnn/StackFlowのPythonサンプル集<br>
+https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
+@nnn/pyaxengineのサンプル集<br>
+https://github.com/nnn112358/pyaxengine_example<br>
 @nnn/ Module-LLMでLチカ<br>
 https://qiita.com/nnn112358/items/ff050ee4279d206dd5eb<br>
 @nnn/ Module-LLMとデバック基板のつなぎ方<br>
