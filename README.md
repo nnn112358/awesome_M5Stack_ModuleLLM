@@ -63,7 +63,7 @@ https://github.com/ml-inory?tab=repositories<br>
 qqc/Pulsar2の開発者<br>
 https://github.com/BUG1989?tab=repositories<br>
 
-qqc-sanのブログ<br>
+qqc氏のzhihuブログ<br>
 https://www.zhihu.com/people/tang-qi-14-37<br>
 
 
@@ -75,7 +75,7 @@ https://github.com/Abandon-ht/ModuleLLM_Development_Guide/<br>
 https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
 
-### @airpocket
+### @airpocket氏
 
 @airpocket/M5Stack LLM ModuleをLinuxボードとして利用する際のFAQ/Tips<br>
 https://elchika.com/article/0e41a4a7-eecc-471e-a259-4fc8d710c26a/<br>
@@ -118,7 +118,7 @@ StackFlowPythonサンプル。<br>
 https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
 
 
-## maixIV情報
+## Sipeed MAiXIV情報
 
 sipeed/maixIV<br>
 https://wiki.sipeed.com/hardware/zh/maixIV/m4ndock/axmodel-deploy.html<br>
@@ -134,4 +134,54 @@ https://github.com/derronqi/yolov8-face?tab=readme-ov-file<br>
 [经验] 【爱芯派 Pro 开发板试用体验】人体姿态估计模型部署后期尝试<br>
 https://bbs.elecfans.com/jishu_2408487_1_1.html<br>
 
+
+
+## ＠nnn
+
+@nnn/ Module-LLMでLチカ<br>
+https://qiita.com/nnn112358/items/ff050ee4279d206dd5eb<br>
+@nnn/ Module-LLMとデバック基板のつなぎ方<br>
+https://qiita.com/nnn112358/items/3be6049d97bd360ce6f8<br>
+Module-LLMの 起動音の消し方<br>
+https://qiita.com/nnn112358/items/8157d2534e1a6e11ccdd<br>
+@nnn/ Module-LLMとM5Stack CoreS3SEとの間でUART通信を行う<br>
+https://qiita.com/nnn112358/items/5c2dd73226ba21f6c02a<br>
+@nnn/ Module-LLMのマイクを調べてみた件<br>
+https://qiita.com/nnn112358/items/1c8a411d95ee5ee7dbb1<br>
+@nnn/ Module-LLMからPCのブラウザへ動画データを送る<br>
+https://qiita.com/nnn112358/items/cd56d1e71ff12a09009e<br>
+@nnn/ Module-LLMのCVサンプルのビルド手順<br>
+https://qiita.com/nnn112358/items/46a347592e28641edd4a<br>
+@nnn/ Module-LLMへファイル転送を行うには<br>
+https://qiita.com/nnn112358/items/e6e041546fad28a068c0<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(YOLO11編)<br>
+https://qiita.com/nnn112358/items/37a4dac27bca23ec7754<br>
+@nnn/ Module-LLMでメモリが足りなくなった場合の対処<br>
+https://qiita.com/nnn112358/items/ead108aa094fe6e3d432<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(YOLOv9編)<br>
+https://qiita.com/nnn112358/items/6f473c54435ed9dc9857<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(MobilenetV2編)<br>
+https://qiita.com/nnn112358/items/ad910b09ff49141b758b<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(EfficientViT編)<br>
+https://qiita.com/nnn112358/items/a80286c146e1814aec50<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(SwinTransformer編)<br>
+https://qiita.com/nnn112358/items/fad6dcd1dd2a44c33edf<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(YOLO World編)<br>
+https://qiita.com/nnn112358/items/8e82d5db76ca99e84a7d<br>
+@nnn/ Module-LLMでDepthAnythingを動かしてみる<br>
+https://qiita.com/nnn112358/items/9918208036ddaf46e7c8<br>
+@nnn/ Module-LLMでCPU推論とNPU推論を比べてみた。<br>
+https://qiita.com/nnn112358/items/d385128b809812a6edf6<br>
+@nnn/ Module-LLMのNPU Modeについて<br>
+https://qiita.com/nnn112358/items/f41b9d2765fa7766ea9d<br>
+@nnn/ Module-LLMのI2Cについて(途中経過)<br>
+https://qiita.com/nnn112358/items/939ecf81abc873e7e2a7<br>
+@nnn/ Module-VLMのNPU用モデルへ変換する(InternVL2編)<br>
+https://qiita.com/nnn112358/items/c9cc3a8cc23bc34e7c7d<br>
+@nnn/ Module-LLMのNPU用モデルへ変換する(Qwen2編)<br>
+https://qiita.com/nnn112358/items/e8ca0e16779ed93a981b<br>
+@nnn/ Module-LLMのIPアドレスを固定するには<br>
+https://qiita.com/nnn112358/items/da1bffb82ad675f1b625<br>
+@nnn/Module-LLMでソースからビルドしたOpenCV-Mobileを使ってみる<br>
+https://qiita.com/nnn112358/items/00417733dddb6414fec0<br>
 
