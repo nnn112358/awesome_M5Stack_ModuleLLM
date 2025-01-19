@@ -10,7 +10,7 @@ m5-docs:Module-LLM<br>
 https://docs.m5stack.com/ja/module/Module-LLM<br>
 LLM Module Arduino Quick Start:Module-LLM<br>
 https://docs.m5stack.com/zh_CN/guide/llm/llm/arduino<br>
-Module-LLM arduino <br>
+Module-LLM arduino /ArduinoのStackFlowクライアント<br>
 https://github.com/m5stack/M5Module-LLM<br>
 StackFlow/M5Stackが開発しているLLMサービスサーバー<br>
 https://github.com/m5stack/StackFlow<br>
