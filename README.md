@@ -12,7 +12,7 @@ LLM Module Arduino Quick Start:Module-LLM<br>
 https://docs.m5stack.com/zh_CN/guide/llm/llm/arduino<br>
 Module-LLM arduino <br>
 https://github.com/m5stack/M5Module-LLM<br>
-StackFlow<br>
+StackFlow/M5Stackが開発しているLLMサービスサーバー<br>
 https://github.com/m5stack/StackFlow<br>
 
 StackFlowのjson仕様<br>
