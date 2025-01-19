@@ -52,6 +52,9 @@ https://pan.baidu.com/s/1cnMeqsD-hErlRZlBDDvuoA?pwd=oey4<br>
 GoogleDrive2<br>
 https://drive.google.com/drive/folders/1JY59vOFS2qxI8TkVIZ0pHfxHMfKPW5PS<br>
 
+How to export YOLOv8’s ONNX model;<br>
+https://axera-pi-zero-docs-cn.readthedocs.io/en/latest/doc_guide_algorithm.html<br>
+
 ### Axera-tech関係者
 
 ml-inory/whieper.axera,melotts.axeraの開発者<br>
@@ -75,13 +78,12 @@ M5Stack Module LLM Advent Calendar 2024<br>
 https://qiita.com/advent-calendar/2024/m5stack_module_llm<br>
 @tokkyo/おなかすいたWiKi<br>
 https://wiki.onakasuita.org/pukiwiki/?Module%20LLM<br>
-How to export YOLOv8’s ONNX model;<br>
-https://axera-pi-zero-docs-cn.readthedocs.io/en/latest/doc_guide_algorithm.html<br>
-ksasao/TextAssistant.ino<br>
+
+@ksasao/TextAssistant.ino<br>
 https://gist.github.com/ksasao/37425d3463013221e7fd0f9ae5ab1c62<br>
 @ciniml/ cross compile modules for M5Stack Module LLM <br>
 https://gist.github.com/ciniml/de14b22991c16fbe76558fe86eda8565<br>
-M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
+@タカオ/M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
 https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
 StackFlowPythonサンプル。<br>
 https://github.com/nnn112358/ModuleLLM_Development_Guide/tree/main/PC/python<br>
