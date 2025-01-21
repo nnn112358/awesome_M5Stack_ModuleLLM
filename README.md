@@ -33,6 +33,8 @@ https://github.com/AXERA-TECH/ax-llm<br>
 pulsar2-docs:NPUモデル変換ツール<br>
 https://pulsar2-docs.readthedocs.io/en/latest/index.html<br>
 https://axera-pi-zero-docs-cn.readthedocs.io/zh-cn/latest/doc_guide_algorithm.html<br>
+pulsar2 huggingface <br>
+https://huggingface.co/AXERA-TECH/Pulsar2 <br>
 pulsar2 google drive <br>
 https://drive.google.com/drive/folders/10rfQIAm5ktjJ1bRMsHbUanbAplIn3ium<br>
 pulsar2 BaiDu Pan<br>
@@ -41,6 +43,8 @@ https://pan.baidu.com/s/1FazlPdW79wQWVY-Qn--qVQ?pwd=sbru<br>
 
 ####  Axera Techオフィシャル/NPUモデル関係
 
+huggingface<br>
+https://huggingface.co/AXERA-TECH<br>
 quick_start_example<br>
 https://github.com/xiguadong/assets/releases/download/v0.1/quick_start_example.zip<br>
 GoogleDrive1<br>
