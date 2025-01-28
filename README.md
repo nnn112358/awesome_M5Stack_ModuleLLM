@@ -16,6 +16,9 @@ StackFlow/M5Stackが開発しているLLMサービスサーバー<br>
 https://github.com/m5stack/StackFlow<br>
 StackFlowのjson仕様<br>
 https://github.com/m5stack/StackFlow/tree/main/doc/projects_llm_framework_doc<br>
+LLM_buildroot-external-m5stack(Linuxカーネルのビルド環境)<br>
+https://github.com/m5stack/LLM_buildroot-external-m5stack<br>
+<br>
 スイッチサイエンス/M5Stack LLM モジュール<br>
 https://www.switch-science.com/products/10034<br>
 
