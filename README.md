@@ -100,7 +100,8 @@ https://gist.github.com/ksasao/37425d3463013221e7fd0f9ae5ab1c62<br>
 https://gist.github.com/ciniml/de14b22991c16fbe76558fe86eda8565<br>
 @takao/M5Stack ModuleLLMでUSB-WiFiドングルを使用する。<br>
 https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
-
+Mr谷岡のページ/M5Stack LLM (large language model) Module (AX630C)<br>
+http://t.wiki.coh.jp/wiki.cgi?page=Kendryte+K210<br>
 
 ### @airpocket氏
 
