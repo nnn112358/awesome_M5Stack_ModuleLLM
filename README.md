@@ -109,9 +109,19 @@ Mr谷岡のページ/M5Stack LLM (large language model) Module (AX630C)<br>
 http://t.wiki.coh.jp/wiki.cgi?page=Kendryte+K210<br>
 @atinfinity/M5Stack LLM モジュール参考リンク集 <br>
 https://gist.github.com/atinfinity/640fc888216449ab3f88d8011ca5d590
-青木 心路/M5stack Module LLMで好きなLLMモデルを動かす - Wed, Jan 15, 2025
-https://defioslab.github.io/post/m5stack_llm/
+青木 心路/M5stack Module LLMで好きなLLMモデルを動かす<br>
+https://defioslab.github.io/post/m5stack_llm/<br>
 
+## ＠ciniml
+Module LLMの音声入力まわり<br>
+https://zenn.dev/ciniml/articles/module_llm_audio_system<br>
+第二回スイッチサイエンス大感謝祭 /Module LLMのダウンロード処理解析<br>
+https://drive.google.com/file/d/1cH9iMvV7b69wZa44sIDuulfTB8Qc0HAu/view<br>
+axdl-rs Unofficial Axera image downloader implementation in Rust<br>
+https://github.com/ciniml/axdl-rs<br>
+https://x.com/HanxiaoM/status/1888995408845938731<br>
+https://gist.github.com/MarsTechHAN/dd375d8381a720610b41ecb8cc4442ec<br>
+https://x.com/HanxiaoM/status/1889178974791860641<br>
 
 ### @airpocket氏
 
