@@ -109,6 +109,9 @@ Mr谷岡のページ/M5Stack LLM (large language model) Module (AX630C)<br>
 http://t.wiki.coh.jp/wiki.cgi?page=Kendryte+K210<br>
 @atinfinity/M5Stack LLM モジュール参考リンク集 <br>
 https://gist.github.com/atinfinity/640fc888216449ab3f88d8011ca5d590
+青木 心路/M5stack Module LLMで好きなLLMモデルを動かす - Wed, Jan 15, 2025
+https://defioslab.github.io/post/m5stack_llm/
+
 
 ### @airpocket氏
 
