@@ -107,6 +107,8 @@ https://gist.github.com/ciniml/de14b22991c16fbe76558fe86eda8565<br>
 https://zenn.dev/mongonta/articles/35b37ee0bc057c<br>
 Mr谷岡のページ/M5Stack LLM (large language model) Module (AX630C)<br>
 http://t.wiki.coh.jp/wiki.cgi?page=Kendryte+K210<br>
+@atinfinity/M5Stack LLM モジュール参考リンク集 <br>
+https://gist.github.com/atinfinity/640fc888216449ab3f88d8011ca5d590
 
 ### @airpocket氏
 
