@@ -141,6 +141,15 @@ https://zenn.dev/airpocket/articles/f41765f304e313<br>
 https://zenn.dev/airpocket/articles/b274c40f988434<br>
 @airpocket/M5Stack Module LLM で カスタムモデルを動かす ～ 3.pythonデモコードでリアルタイム推論<br>
 https://zenn.dev/airpocket/articles/3cc51cd57cd18d<br>
+@airpocket/M5Stack LLM630 Compute Kit ログインしてみる
+https://zenn.dev/airpocket/articles/f3a1e28a2502b6
+@airpocket/M5Stack LLM630 Compute Kit でJupyter Notebook
+https://zenn.dev/airpocket/articles/80759cede0858a
+@airpocket/M5Stack LLM630 Compute Kit で I2Cのテスト
+https://zenn.dev/airpocket/articles/d7d394fed6a56b
+@airpocket/M5Stack LLM630 Compute Kit でスピーカ
+https://zenn.dev/airpocket/articles/79fffd40d3f356
+
 
 ## ＠nnn
 @nnn/リンク集<br>
