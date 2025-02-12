@@ -112,6 +112,12 @@ https://gist.github.com/atinfinity/640fc888216449ab3f88d8011ca5d590
 青木 心路/M5stack Module LLMで好きなLLMモデルを動かす<br>
 https://defioslab.github.io/post/m5stack_llm/<br>
 
+## @Goroman
+ローカルLLMを手のひらサイズで動かしてみよう！ M5 Cardputer + ModuleLLM
+https://qiita.com/GOROman/items/769bf17589d5661f7a70<br>
+https://posfie.com/@necobut/p/JKAorjR<br>
+https://github.com/GOROman/LLMCardputer<br>
+
 ## ＠ciniml
 Module LLMの音声入力まわり<br>
 https://zenn.dev/ciniml/articles/module_llm_audio_system<br>
