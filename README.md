@@ -77,6 +77,9 @@ https://github.com/Abandon-ht/ModuleLLM_Development_Guide/<br>
 @Abandon-ht/ax-AI_develop_guide<br>
 https://github.com/Abandon-ht/ax-AI_develop_guide<br>
 
+## M5Stack LLM 座談会 #02 
+https://stack-boards-enthusiasts.connpass.com/event/342944/
+
 
 ## ModuleLLMケース
 
@@ -87,6 +90,8 @@ https://www.thingiverse.com/thing:6886266<br>
 https://makerworld.com/en/models/981023#profileId-954651<br>
 @takao/M5Stack Stand-chan big(ｽﾀｯｸﾁｬﾝ風LLMケース)<br>
 https://makerworld.com/en/models/996444#profileId-972892<br>
+Kenta Ida/ModuleLLM Enclosure with Debug Adapter<br>
+https://makerworld.com/en/models/1057196#profileId-1048317<br>
 
 ### その他
 
