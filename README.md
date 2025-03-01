@@ -158,6 +158,9 @@ https://zenn.dev/airpocket/articles/d7d394fed6a56b <br>
 @airpocket/M5Stack LLM630 Compute Kit でスピーカ <br>
 https://zenn.dev/airpocket/articles/79fffd40d3f356 <br>
 
+## aNo研
+Module-LLM MAniaX<br>
+https://booth.pm/ja/items/6642202<br>
 
 ## ＠nnn
 @nnn/リンク集<br>
