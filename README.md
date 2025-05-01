@@ -1,4 +1,4 @@
-# anysome_M5Stack_ModuleLLM
+## anysome_M5Stack_ModuleLLM
 M5Stack_ModuleLLM関連リンク集
 
 
@@ -21,6 +21,11 @@ https://github.com/m5stack/LLM_buildroot-external-m5stack<br>
 <br>
 スイッチサイエンス/M5Stack LLM モジュール<br>
 https://www.switch-science.com/products/10034<br>
+
+
+## aNo研
+Module-LLM MAniaX<br>
+https://booth.pm/ja/items/6642202<br>
 
 ### Axera Techオフィシャル情報
 AX630C - Axera Tech - 爱芯元智<br>
@@ -158,9 +163,6 @@ https://zenn.dev/airpocket/articles/d7d394fed6a56b <br>
 @airpocket/M5Stack LLM630 Compute Kit でスピーカ <br>
 https://zenn.dev/airpocket/articles/79fffd40d3f356 <br>
 
-## aNo研
-Module-LLM MAniaX<br>
-https://booth.pm/ja/items/6642202<br>
 
 ## ＠nnn
 @nnn/リンク集<br>
