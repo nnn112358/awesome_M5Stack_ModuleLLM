@@ -119,6 +119,9 @@ https://gist.github.com/atinfinity/640fc888216449ab3f88d8011ca5d590
 https://defioslab.github.io/post/m5stack_llm/<br>
 @motoh_qiita/M5Stack Module LLMでFunction Callingを実行<br>
 https://qiita.com/motoh_qiita/items/1b0882e507e803982753<br>
+アキバではたらくプログラマのBlog/M5StackのModule-LLMでMCPサーバーを動かしてみた<br>
+https://akibabara.com/blog/8085.html<br>
+
 
 ## @Goroman
 ローカルLLMを手のひらサイズで動かしてみよう！ M5 Cardputer + ModuleLLM<br>
