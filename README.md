@@ -5,7 +5,7 @@ M5Stack_ModuleLLM関連リンク集
 ### M5Stackオフィシャル情報
 
 m5-docs:Module-LLM<br>
-https://docs.m5stack.com/ja/module/Module-LLM<br>
+https://docs.m5stack.com/ja/module/Module%20LLM%20Kit<br>
 LLM Module Arduino Quick Start<br>
 https://docs.m5stack.com/zh_CN/guide/llm/llm/arduino<br>
 LLM Module UIFlow2.0 Quick Start<br>
@@ -20,7 +20,7 @@ LLM_buildroot-external-m5stack(Linuxカーネルのビルド環境)<br>
 https://github.com/m5stack/LLM_buildroot-external-m5stack<br>
 <br>
 スイッチサイエンス/M5Stack LLM モジュール<br>
-https://www.switch-science.com/products/10034<br>
+https://www.switch-science.com/products/10334<br>
 
 
 ## aNo研
