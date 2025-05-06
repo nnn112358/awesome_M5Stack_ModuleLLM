@@ -26,6 +26,7 @@ https://www.switch-science.com/products/10334<br>
 ## aNo研
 Module-LLM MAniaX<br>
 https://booth.pm/ja/items/6642202<br>
+https://github.com/anoken/modulellm_maniax<br>
 
 ### Axera Techオフィシャル情報
 AX630C - Axera Tech - 爱芯元智<br>
