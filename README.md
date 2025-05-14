@@ -121,7 +121,7 @@ https://defioslab.github.io/post/m5stack_llm/<br>
 https://qiita.com/motoh_qiita/items/1b0882e507e803982753<br>
 アキバではたらくプログラマのBlog/M5StackのModule-LLMでMCPサーバーを動かしてみた<br>
 https://akibabara.com/blog/8085.html<br>
-
+https://github.com/kaz-mac/misc/blob/master/modulellm-mcp/mcp_llmtts_gradio.py<br>
 
 ## @Goroman
 ローカルLLMを手のひらサイズで動かしてみよう！ M5 Cardputer + ModuleLLM<br>
