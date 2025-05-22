@@ -21,7 +21,8 @@ https://github.com/m5stack/LLM_buildroot-external-m5stack<br>
 <br>
 スイッチサイエンス/M5Stack LLM モジュール<br>
 https://www.switch-science.com/products/10334<br>
-
+modulellm-tutorial<br>
+https://modulellm-tutorial.readthedocs.io/en/latest/Overview.html<br>
 
 ## aNo研
 Module-LLM MAniaX<br>
